@@ -22,10 +22,3 @@ This project involves the configuration and testing of various network protocols
 2. **Load Configuration Files**: Import the provided configuration files into Packet Tracer.
 3. **Verify Connectivity**: Use the built-in simulation tools to verify that all configurations are working as expected.
 
-## Contacts
-
-For further information or support, please contact:
-
-- **Arefeh Pourmohammadi**: [arefepourmohammadi@gmail.com](mailto:arefepourmohammadi@gmail.com)
-- **Masih Tanoursaz**: [masihtanoursaz@gmail.com](mailto:masihtanoursaz@gmail.com)
-- **Zahra Sarami**: [z.sarami81@gmail.com](mailto:z.sarami81@gmail.com)
